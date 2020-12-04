@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\cryptoFatality\cryptoFatality\bin\Debug\cryptoFatality.exe.config
+C:\Users\user\source\repos\cryptoFatality\cryptoFatality\bin\Debug\cryptoFatality.exe
+C:\Users\user\source\repos\cryptoFatality\cryptoFatality\bin\Debug\cryptoFatality.pdb
+C:\Users\user\source\repos\cryptoFatality\cryptoFatality\obj\Debug\cryptoFatality.csprojAssemblyReference.cache
+C:\Users\user\source\repos\cryptoFatality\cryptoFatality\obj\Debug\cryptoFatality.Form1.resources
+C:\Users\user\source\repos\cryptoFatality\cryptoFatality\obj\Debug\cryptoFatality.Properties.Resources.resources
+C:\Users\user\source\repos\cryptoFatality\cryptoFatality\obj\Debug\cryptoFatality.csproj.GenerateResource.cache
+C:\Users\user\source\repos\cryptoFatality\cryptoFatality\obj\Debug\cryptoFatality.exe
+C:\Users\user\source\repos\cryptoFatality\cryptoFatality\obj\Debug\cryptoFatality.pdb
